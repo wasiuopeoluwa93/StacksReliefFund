@@ -1,4 +1,4 @@
-# Smart Contract: Stacks Relief Fund
+# Stacks Relief Fund
 
 ## Overview
 This Clarity smart contract facilitates transparent and accountable donation management for beneficiaries. It enables role-based access control, donation tracking, and fund utilization approval.
